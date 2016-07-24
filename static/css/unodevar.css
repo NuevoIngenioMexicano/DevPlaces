@@ -1,0 +1,94 @@
+
+.unodo {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 36px;
+	position: relative;
+	float: right;
+	margin-left: -20px; 
+}
+
+#usuario {
+	border-color: #D3D3D3;
+	border-radius: 10px;
+	border-style: solid;
+	height: 45px;
+	width: 440px;
+}
+@media screen and (min-width: 751px) {
+	#usuario {
+		width: 349px;
+	}
+}
+@media screen and (min-width: 751px) {
+	#usuario {
+		width: 220px;
+	}
+}
+@media screen and (min-width: 978px) {
+	#usuario {
+		width: 287px;
+	}
+}
+@media screen and (min-width: 1223px) {
+	#usuario {
+		width: 349px;
+	}
+}
+#categoria {
+	border-color: #D3D3D3;
+	border-radius: 10px;
+	border-style: solid;
+	height: 45px;
+	width: 440px;
+}
+@media screen and (min-width: 751px) {
+	#categoria {
+		width: 349px;
+	}
+}
+@media screen and (min-width: 751px) {
+	#categoria {
+		width: 220px;
+	}
+}
+@media screen and (min-width: 978px) {
+	#categoria {
+		width: 287px;
+	}
+}
+@media screen and (min-width: 1223px) {
+	#categoria {
+		width: 349px;
+	}
+}
+#evento {
+	border-color: #D3D3D3;
+	border-radius: 10px;
+	border-style: solid;
+	height: 45px;
+	width: 440px;
+}
+@media screen and (min-width: 751px) {
+	#evento {
+		width: 349px;
+	}
+}
+@media screen and (min-width: 751px) {
+	#evento {
+		width: 220px;
+	}
+}
+@media screen and (min-width: 978px) {
+	#evento {
+		width: 287px;
+	}
+}
+@media screen and (min-width: 1223px) {
+	#evento {
+		width: 349px;
+	}
+}
+.dog {
+	font-size: 25px;
+	font-family: 'Montserrat', sans-serif;
+}
